@@ -1,6 +1,6 @@
 # Umschulungsprojekte
 
-### The goal of those projects is to learn to program
+### The goal of these projects is to learn programming
 
 ### Das Ziel dieser Projekte ist es, das Programmieren zu lernen
 
