@@ -1,3 +1,5 @@
+# This script creates an array depending on the value of the argument given and then prints it along with the last number
+
 def fibonacci_sequence(n):
     list = [0,1]
     if n >2:
@@ -10,4 +12,4 @@ def fibonacci_sequence(n):
 
 
 
-fibonacci_sequence(15)
+fibonacci_sequence(15) # 15 = size of the wished array
