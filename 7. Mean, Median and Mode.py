@@ -1,3 +1,5 @@
+# This script will calcualte and print the mean, median and mode of a given set_of_numbers
+
 set_of_numbers = [-105,-105, -105, -105, -105, -103,-103,-103,-103, -103, -5, 123 ,1,1,1,1,1,1,1,1,1,1, 2, 3, 4, 100, 2000, 3000]
 
 def mean(a):
