@@ -1,4 +1,7 @@
-# Change finder
+
+# This program gives the minimum amount of coins needed for a given value
+
+
 quarters = 0
 dimes = 0
 nickels = 0
